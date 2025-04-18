@@ -54,6 +54,11 @@
             nodePackages_latest.typescript-language-server
             typescript
           ];
+          
+        programs.zsh = {
+          enable = true;
+          enableCompletion = true;
+        };
 
         fonts.packages = [
            pkgs.nerd-fonts._0xproto
