@@ -14,10 +14,10 @@ blur = true
 history = 100000
 
 [font]
-normal = { family = "MesloLGS Nerd Font Mono" }
-bold = { family = "MesloLGS Nerd Font Mono" }
-italic = { family = "MesloLGS Nerd Font Mono" }
-bold_italic = { family = "MesloLGS Nerd Font Mono" }
+normal = { family = "FiraCode Nerd Font Propo" }
+bold = { family = "FiraCode Nerd Font Propo" }
+italic = { family = "FiraCode Nerd Font Propo" }
+bold_italic = { family = "FiraCode Nerd Font Propo" }
 size = 13.5
 # [colors]
 # primary = []
